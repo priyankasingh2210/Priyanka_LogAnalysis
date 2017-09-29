@@ -32,7 +32,7 @@ Follow the steps to download the movie trailer project on your system
 3. Change the directory to fullstack-nandegree-vm repository\vagrant 
 4. Run vagrant up command to start Oracle VM
 5. Run vagrant ssh to log in to VM
-6. Download or clone from https://github.com/priyankasingh2210/ud036_StarterCode into vagrant directry
+6. Download or clone from https://github.com/priyankasingh2210/Priyanka_LogAnalysis into vagrant directry
 7. Type python3 LogAnalysis.py
 6. You can check the output now
 ```
